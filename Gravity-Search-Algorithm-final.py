@@ -1,8 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-from numpy.random import rand, randn, randint
-from numpy.linalg import norm
-
 import numpy as np 
 import matplotlib.pyplot as plt
 from numpy.random import rand, randn, randint
