@@ -1,7 +1,11 @@
 # Gravity Search Algorithm
 
 ## General info
-The project is an implementation of a gravity search algorithm.
+The project is an implementation of a gravity search algorithm.<br />
+If you have any questions, please feel free to write to me.<br />
+
+If you want to learn more about this algorithm, please check the tutorial:
+* https://colab.research.google.com/drive/1l4KJjKoy9i6Vivd5aKsrQsOh8-uJA31Z
 
 More detail about gravity search algorithm: 
 * https://www.hindawi.com/journals/amp/2017/2131862/
