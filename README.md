@@ -41,10 +41,10 @@ GravitySearchAlgorithm(function)
 
 Example of declaring more variables:<br />
 ```
-x = variable[0]<br />
-y = variable[1]<br />
-z = variable[2]<br />
-c = variable[3]<br />
+x = variable[0]
+y = variable[1]
+z = variable[2]
+c = variable[3]
 ```
 
 If you want get a result: <br />
