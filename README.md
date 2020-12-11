@@ -43,7 +43,7 @@ z = variable[2]<br />
 c = variable[3]<br />
 ```
 
-If you want get a result and save it: <br />
+If you want get a result: <br />
 ```
 algorithm = GravitySearchAlgorithm(function)
 points = algorithm.Points 
